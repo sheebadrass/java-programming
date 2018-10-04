@@ -1,17 +1,17 @@
 class Positive {
   public static void main(String[] args) {
-    int a=5;
-        if(a > 0)
+    int c = 5;
+        if(c > 0)
         {
-            System.out.println("positive");
+            System.out.println(" output ispositive");
         }
-        else if(a < 0)
+        else if(c < 0)
         {
-            System.out.println("negative");
+            System.out.println("output is negative");
         }
         else
         {
-            System.out.println("Zero");
+            System.out.println("output is Zero");
         }
     }
 }
