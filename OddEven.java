@@ -8,7 +8,7 @@ class OddEven {
     }  
     public static void main(String[] args) 
     { 
-        int n = 14; 
+        int n = 15; 
         if(isEven(n) == true) 
             System.out.print("n value is Even"); 
         else
