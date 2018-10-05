@@ -8,10 +8,10 @@ class OddEven {
     }  
     public static void main(String[] args) 
     { 
-        int n = 12; 
+        int n = 14; 
         if(isEven(n) == true) 
-            System.out.print("n is Even"); 
+            System.out.print("n value is Even"); 
         else
-            System.out.print("n is Odd"); 
+            System.out.print("n value is Odd"); 
     } 
 } 
